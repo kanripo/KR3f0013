@@ -1,0 +1,74 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 新法算書
+#+DATE: 2015-08-24 23:09:34.471154
+#+PROPERTY: ID KR3f0013
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十
+<pb:KR3f0013_WYG_050-1a>¶
+欽定四庫全書¶
+　新法筭書卷五十　　　明　徐光啟等　撰¶
+　　五緯表卷五(火星上/)¶
+<pb:KR3f0013_WYG_050-2a>¶
+¶
+<pb:KR3f0013_WYG_050-3a>¶
+¶
+<pb:KR3f0013_WYG_050-4a>¶
+¶
+<pb:KR3f0013_WYG_050-5a>¶
+¶
+<pb:KR3f0013_WYG_050-6a>¶
+¶
+<pb:KR3f0013_WYG_050-7a>¶
+¶
+<pb:KR3f0013_WYG_050-8a>¶
+¶
+<pb:KR3f0013_WYG_050-9a>¶
+¶
+<pb:KR3f0013_WYG_050-10a>¶
+¶
+<pb:KR3f0013_WYG_050-11a>¶
+¶
+<pb:KR3f0013_WYG_050-12a>¶
+¶
+<pb:KR3f0013_WYG_050-13a>¶
+¶
+<pb:KR3f0013_WYG_050-14a>¶
+¶
+<pb:KR3f0013_WYG_050-15a>¶
+¶
+<pb:KR3f0013_WYG_050-16a>¶
+¶
+<pb:KR3f0013_WYG_050-17a>¶
+¶
+<pb:KR3f0013_WYG_050-18a>¶
+¶
+<pb:KR3f0013_WYG_050-19a>¶
+¶
+<pb:KR3f0013_WYG_050-20a>¶
+¶
+<pb:KR3f0013_WYG_050-21a>¶
+¶
+<pb:KR3f0013_WYG_050-22a>¶
+¶
+<pb:KR3f0013_WYG_050-23a>¶
+¶
+<pb:KR3f0013_WYG_050-24a>¶
+¶
+<pb:KR3f0013_WYG_050-25a>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR3f0013_WYG_050-25b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　新法筭書卷五十¶
